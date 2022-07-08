@@ -16,7 +16,3 @@ D:\Dekstop Test\desktop\TrialApp\TrialApp\obj\Release\net5.0-windows\TrialApp.dl
 D:\Dekstop Test\desktop\TrialApp\TrialApp\obj\Release\net5.0-windows\ref\TrialApp.dll
 D:\Dekstop Test\desktop\TrialApp\TrialApp\obj\Release\net5.0-windows\TrialApp.pdb
 D:\Dekstop Test\desktop\TrialApp\TrialApp\obj\Release\net5.0-windows\TrialApp.genruntimeconfig.cache
-D:\Dekstop Test\desktop\TrialApp\TrialApp\bin\Release\net5.0-windows\TrialApp.dll.manifest
-D:\Dekstop Test\desktop\TrialApp\TrialApp\bin\Release\net5.0-windows\TrialApp.application
-D:\Dekstop Test\desktop\TrialApp\TrialApp\obj\Release\net5.0-windows\TrialApp.dll.manifest
-D:\Dekstop Test\desktop\TrialApp\TrialApp\obj\Release\net5.0-windows\TrialApp.application

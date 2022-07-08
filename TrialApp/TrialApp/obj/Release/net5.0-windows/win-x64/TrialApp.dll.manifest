@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="TrialApp.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="TrialApp.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="5.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -53,22 +53,22 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="TrialApp.deps.json" size="416">
+  <file name="TrialApp.deps.json" size="469">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>F16NHXosJM/dbz1TSisIT1ni2fW2Es2bC7bnlRUJnY0=</dsig:DigestValue>
+      <dsig:DigestValue>KoDdw+HX9Esn5v9IKXOVzoowWy8E6Sg6tmjcDZoV0E4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="TrialApp.dll" size="12288">
+  <file name="TrialApp.dll" size="11776">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Z9XAR8hY6dOvCBlHDCqLE+gvJyOhpvCHBpqDCd9csb8=</dsig:DigestValue>
+      <dsig:DigestValue>ncv5st605rxHsAcfe/sYw65ZjMA6yXtHVQhQIizqw7s=</dsig:DigestValue>
     </hash>
   </file>
   <file name="TrialApp.exe" size="125440">
