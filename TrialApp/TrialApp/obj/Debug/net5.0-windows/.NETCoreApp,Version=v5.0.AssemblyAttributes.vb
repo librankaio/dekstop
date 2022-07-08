@@ -4,4 +4,4 @@
 
             Imports System
             Imports System.Reflection
-            <Assembly: Global.System.Runtime.Versioning.TargetFrameworkAttribute(".NETCoreApp,Version=v3.1", FrameworkDisplayName:="")>
+            <Assembly: Global.System.Runtime.Versioning.TargetFrameworkAttribute(".NETCoreApp,Version=v5.0", FrameworkDisplayName:="")>

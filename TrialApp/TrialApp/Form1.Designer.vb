@@ -28,15 +28,16 @@ Partial Class Form1
         '
         'TextBox1
         '
-        Me.TextBox1.Location = New System.Drawing.Point(45, 86)
+        Me.TextBox1.Location = New System.Drawing.Point(46, 78)
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(100, 23)
         Me.TextBox1.TabIndex = 0
+        Me.TextBox1.Text = "Hello"
         '
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(44, 52)
+        Me.Label1.Location = New System.Drawing.Point(46, 49)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(54, 15)
         Me.Label1.TabIndex = 1
