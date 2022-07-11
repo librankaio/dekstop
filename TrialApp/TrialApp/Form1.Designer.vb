@@ -32,7 +32,7 @@ Partial Class Form1
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(100, 23)
         Me.TextBox1.TabIndex = 0
-        Me.TextBox1.Text = "Hello"
+        Me.TextBox1.Text = "OOOO"
         '
         'Label1
         '
@@ -41,7 +41,7 @@ Partial Class Form1
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(54, 15)
         Me.Label1.TabIndex = 1
-        Me.Label1.Text = "Version 1"
+        Me.Label1.Text = "Version 2"
         '
         'Form1
         '
