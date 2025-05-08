@@ -1,0 +1,17 @@
+C:\Users\PT PKSS\Source\Repos\dekstop\TrialApp\TrialApp\bin\Release\net6.0-windows7.0\TrialApp.exe
+C:\Users\PT PKSS\Source\Repos\dekstop\TrialApp\TrialApp\bin\Release\net6.0-windows7.0\TrialApp.deps.json
+C:\Users\PT PKSS\Source\Repos\dekstop\TrialApp\TrialApp\bin\Release\net6.0-windows7.0\TrialApp.runtimeconfig.json
+C:\Users\PT PKSS\Source\Repos\dekstop\TrialApp\TrialApp\bin\Release\net6.0-windows7.0\TrialApp.dll
+C:\Users\PT PKSS\Source\Repos\dekstop\TrialApp\TrialApp\bin\Release\net6.0-windows7.0\TrialApp.pdb
+C:\Users\PT PKSS\Source\Repos\dekstop\TrialApp\TrialApp\obj\Release\net6.0-windows7.0\TrialApp.Form1.resources
+C:\Users\PT PKSS\Source\Repos\dekstop\TrialApp\TrialApp\obj\Release\net6.0-windows7.0\TrialApp.vbproj.GenerateResource.cache
+C:\Users\PT PKSS\Source\Repos\dekstop\TrialApp\TrialApp\obj\Release\net6.0-windows7.0\TrialApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PT PKSS\Source\Repos\dekstop\TrialApp\TrialApp\obj\Release\net6.0-windows7.0\TrialApp.AssemblyInfoInputs.cache
+C:\Users\PT PKSS\Source\Repos\dekstop\TrialApp\TrialApp\obj\Release\net6.0-windows7.0\TrialApp.AssemblyInfo.vb
+C:\Users\PT PKSS\Source\Repos\dekstop\TrialApp\TrialApp\obj\Release\net6.0-windows7.0\TrialApp.vbproj.CoreCompileInputs.cache
+C:\Users\PT PKSS\Source\Repos\dekstop\TrialApp\TrialApp\obj\Release\net6.0-windows7.0\TrialApp.sourcelink.json
+C:\Users\PT PKSS\Source\Repos\dekstop\TrialApp\TrialApp\obj\Release\net6.0-windows7.0\TrialApp.dll
+C:\Users\PT PKSS\Source\Repos\dekstop\TrialApp\TrialApp\obj\Release\net6.0-windows7.0\refint\TrialApp.dll
+C:\Users\PT PKSS\Source\Repos\dekstop\TrialApp\TrialApp\obj\Release\net6.0-windows7.0\TrialApp.pdb
+C:\Users\PT PKSS\Source\Repos\dekstop\TrialApp\TrialApp\obj\Release\net6.0-windows7.0\TrialApp.genruntimeconfig.cache
+C:\Users\PT PKSS\Source\Repos\dekstop\TrialApp\TrialApp\obj\Release\net6.0-windows7.0\ref\TrialApp.dll

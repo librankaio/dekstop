@@ -1,5 +1,0 @@
-D:\Dekstop Test\desktop\published\TrialApp.exe
-D:\Dekstop Test\desktop\published\TrialApp.dll
-D:\Dekstop Test\desktop\published\TrialApp.deps.json
-D:\Dekstop Test\desktop\published\TrialApp.runtimeconfig.json
-D:\Dekstop Test\desktop\published\TrialApp.pdb

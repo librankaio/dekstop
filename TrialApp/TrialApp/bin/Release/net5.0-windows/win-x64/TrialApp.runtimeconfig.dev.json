@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\SWIFECT\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\SWIFECT\\.nuget\\packages"
-    ]
-  }
-}
