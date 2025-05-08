@@ -41,11 +41,11 @@ Partial Class Form1
         Label1.Name = "Label1"
         Label1.Size = New Size(54, 15)
         Label1.TabIndex = 1
-        Label1.Text = "Version 4"
+        Label1.Text = "Version 3"
         ' 
         ' Form1
         ' 
-        AutoScaleDimensions = New SizeF(7.0F, 15.0F)
+        AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
         Controls.Add(Label1)
