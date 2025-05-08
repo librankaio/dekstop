@@ -41,7 +41,7 @@ Partial Class Form1
         Label1.Name = "Label1"
         Label1.Size = New Size(54, 15)
         Label1.TabIndex = 1
-        Label1.Text = "Version 3"
+        Label1.Text = "Version 4"
         ' 
         ' Form1
         ' 
