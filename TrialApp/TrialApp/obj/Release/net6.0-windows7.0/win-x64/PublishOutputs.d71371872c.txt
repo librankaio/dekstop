@@ -1,0 +1,5 @@
+C:\Users\PT PKSS\source\repos\dekstop_ftp\TrialApp\TrialApp\bin\Release\net6.0-windows7.0\win-x64\app.publish\TrialApp.exe
+C:\Users\PT PKSS\source\repos\dekstop_ftp\TrialApp\TrialApp\bin\Release\net6.0-windows7.0\win-x64\app.publish\TrialApp.dll
+C:\Users\PT PKSS\source\repos\dekstop_ftp\TrialApp\TrialApp\bin\Release\net6.0-windows7.0\win-x64\app.publish\TrialApp.deps.json
+C:\Users\PT PKSS\source\repos\dekstop_ftp\TrialApp\TrialApp\bin\Release\net6.0-windows7.0\win-x64\app.publish\TrialApp.runtimeconfig.json
+C:\Users\PT PKSS\source\repos\dekstop_ftp\TrialApp\TrialApp\bin\Release\net6.0-windows7.0\win-x64\app.publish\TrialApp.pdb

@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\published",
+    "\\TrialApp"
   ],
+  "SelectedNode": "\\published\\TrialApp.runtimeconfig.json",
   "PreviewInSolutionExplorer": false
 }

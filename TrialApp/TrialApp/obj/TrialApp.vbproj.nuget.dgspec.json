@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PT PKSS\\Source\\Repos\\dekstop\\TrialApp\\TrialApp\\TrialApp.vbproj": {}
+    "C:\\Users\\PT PKSS\\source\\repos\\dekstop_ftp\\TrialApp\\TrialApp\\TrialApp.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\PT PKSS\\Source\\Repos\\dekstop\\TrialApp\\TrialApp\\TrialApp.vbproj": {
+    "C:\\Users\\PT PKSS\\source\\repos\\dekstop_ftp\\TrialApp\\TrialApp\\TrialApp.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PT PKSS\\Source\\Repos\\dekstop\\TrialApp\\TrialApp\\TrialApp.vbproj",
+        "projectUniqueName": "C:\\Users\\PT PKSS\\source\\repos\\dekstop_ftp\\TrialApp\\TrialApp\\TrialApp.vbproj",
         "projectName": "TrialApp",
-        "projectPath": "C:\\Users\\PT PKSS\\Source\\Repos\\dekstop\\TrialApp\\TrialApp\\TrialApp.vbproj",
+        "projectPath": "C:\\Users\\PT PKSS\\source\\repos\\dekstop_ftp\\TrialApp\\TrialApp\\TrialApp.vbproj",
         "packagesPath": "C:\\Users\\PT PKSS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PT PKSS\\Source\\Repos\\dekstop\\TrialApp\\TrialApp\\obj\\",
+        "outputPath": "C:\\Users\\PT PKSS\\source\\repos\\dekstop_ftp\\TrialApp\\TrialApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
